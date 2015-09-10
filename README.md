@@ -26,15 +26,19 @@ In this hands-on course, you will learn how to take the basic building blocks of
 * Adobe Illustrator (CS5 +)
 
 
+## Class Format
+Class sessions are divided into two parts with a break in between: (1) lectures and code-along demos, and (2) working labs where students complete an in-class, lecture-based exercise. Guest lecturers will be invited on occasion to discuss specific design and/or web development topics and provide additional perspectives on the industry. For the Midterms and the Finals, students will be presenting work that demonstrates their comprehensive knowledge of the material covered up to that point.
+
+
 ## Lesson Plan
 **Week 0: Pre-Class Setup**
 Before the first day of class, please set up your laptops according to the following instructions:
 * If you don’t yet have one, [create a GitHub account](https://github.com)
-* If you don’t already have a text editor or IDE installed, [install GitHub's Atom editor](https://atom.io) (optional: Preferences > Install autocomplete plus, autoclose html)
+* If you don’t already have a text editor (e.g., Sublime, TextWrangler) installed, [install GitHub's Atom editor](https://atom.io) (Recommended: Install Autocomplete Plus and Autoclose HTML. Go to Atom > Preferences > Install then search for autocomplete plus, autoclose html and click Install.
 * Download & install (or upgrade) [Xcode command line tools](https://developer.apple.com/downloads/index.action). For Yosemite (OS X 10.10+), [follow these instructions](http://railsapps.github.io/xcode-command-line-tools.html) (Scroll down a bit to the section "MacOS Yosemite.” You'll need to create a Mac Developer account if you don't already have one.)
 * Install Git using [Homebrew](http://brew.sh). Watch this brief video for installation instructions: http://vimeo.com/14649488
 * Set up GitHub SSH key: https://help.github.com/articles/generating-ssh-keys/
-* Cache GitHub password https://help.github.com/articles/caching-your-github-password-in-git/ (optional)
+* (Recommended) Cache GitHub password https://help.github.com/articles/caching-your-github-password-in-git/
 
 **Week 1: Intro**
 * What to expect: Review of the syllabus
