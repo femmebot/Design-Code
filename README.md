@@ -1,12 +1,8 @@
 # Syllabus: Design &amp; Code 01
 
-International Center of Photography
-
+*International Center of Photography*
 New Media Narratives
-
-Mondays 6:30-9:30 Sept 28-Nov 30
-
-P. Espiritu
+Mondays, 6:30-9:30, Sept 28-Nov 30
 
 
 ## Description
