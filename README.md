@@ -70,12 +70,16 @@ An Official ICP Transcript will be mailed to the student at the end of the year 
 F-1 students are also required to maintain passing grades throughout their course of study at ICP in order to maintain their full-time student status. Failure of one or more courses can result in SEVIS termination.
 
 Students will be evaluated using these criteria:  
-* Creativity and/or originality
+* Participation in critiques and discussions: 5%
+* Attendance and punctuality: 5%
+* Completion of lab assignments: 15%
+* Midterm Project: 10%
+* Final Project: 15%
+
+The Midterm project and Final project will be evaluated on the following criteria:
+* Creativity and originality
 * Execution and result
 * Technical excellence
-* Participation in critiques and discussions
-* Attendance and punctuality
-* Completion of lab assignments
 
 ## Attendance Policy
 Students must attend at least 8 full classes.
