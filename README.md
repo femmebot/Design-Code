@@ -30,6 +30,7 @@ In this hands-on course, you will learn how to take the basic building blocks of
 **Week 1: Intro**
 * What to expect: Review of the syllabus
 * Command Line basics; Intro to Git/GitHub  
+
 **Week 2:** Graphic Design Fundamentals; Designing with Photoshop & Illustrator  
 **Week 3:** Intro to HTML, CSS, Box Model  
 **Week 4:** User Experience and Interaction Design  
