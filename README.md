@@ -29,16 +29,16 @@ In this hands-on course, you will learn how to take the basic building blocks of
 ## Lesson Plan
 **Week 1: Intro**
 * What to expect: Review of the syllabus
-* Command Line basics; Intro to Git/GitHub
-**Week 2:** Graphic Design Fundamentals; Designing with Photoshop & Illustrator
-**Week 3:** Intro to HTML, CSS, Box Model
-**Week 4:** User Experience and Interaction Design
-**Week 5:** Midterm
-**Week 6:** Advanced Selectors
-**Week 7:** Responsive Design (Media Queries, Border-Box)
-**Week 8:** SVG, CSS Transitions and Transforms
-**Week 9:** Flexible Session (Flexbox; Refactoring with Sass)
-**Week 10:** Finals
+* Command Line basics; Intro to Git/GitHub  
+**Week 2:** Graphic Design Fundamentals; Designing with Photoshop & Illustrator  
+**Week 3:** Intro to HTML, CSS, Box Model  
+**Week 4:** User Experience and Interaction Design  
+**Week 5:** Midterm  
+**Week 6:** Advanced Selectors  
+**Week 7:** Responsive Design (Media Queries, Border-Box)  
+**Week 8:** SVG, CSS Transitions and Transforms  
+**Week 9:** Flexible Session (Flexbox; Refactoring with Sass)  
+**Week 10:** Finals  
 
 
 ## ICP School Attendance Policies
