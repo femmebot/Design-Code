@@ -72,14 +72,15 @@ F-1 students are also required to maintain passing grades throughout their cours
 Students will be evaluated using these criteria:  
 * Participation in critiques and discussions: 5%
 * Attendance and punctuality: 5%
-* Completion of lab assignments: 15%
-* Midterm Project: 10%
-* Final Project: 15%
+* Completion of lab assignments: 30%
+* Midterm Project: 30%
+* Final Project: 30%
 
-The Midterm project and Final project will be evaluated on the following criteria:
+Lab assignments, the Midterm project and Final project will be evaluated on the following criteria:
 * Creativity and originality
 * Execution and result
 * Technical excellence
+* Punctuality 
 
 ## Attendance Policy
 Students must attend at least 8 full classes.
