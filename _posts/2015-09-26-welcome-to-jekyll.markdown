@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Week 1: Welcome to Design & Code I"
 date:   2015-09-26 17:28:07
 categories: jekyll update
 ---
