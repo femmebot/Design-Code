@@ -47,12 +47,12 @@ Before the first day of class, please set up your laptops according to the follo
 **Week 2:** Intro to Photoshop & Illustrator; Web Design Basics  
 **Week 3:** Intro to HTML, CSS, Layouts  
 **Week 4:** User Experience and Interaction Design  
-**Week 5:** Midterm  
+**Week 5: Midterm**   
 **Week 6:** Advanced Selectors  
 **Week 7:** Responsive Design (Media Queries, Border-Box)  
 **Week 8:** SVG, CSS Transitions and Transforms  
 **Week 9:** Flexible Session (Flexbox; Refactoring with Sass)  
-**Week 10:** Finals  
+**Week 10: Finals**    
 
 
 ## ICP School Attendance Policies
