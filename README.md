@@ -31,6 +31,9 @@ Class sessions are divided into two parts with a break in between: (1) lectures 
 
 
 ## Lesson Plan
+
+See the [class website](http://icpdesigncode.github.io) for up-to-date curriculum.
+
 **Week 0: Pre-Class Setup**
 Before the first day of class, please set up your laptops according to the following instructions:
 * If you don’t yet have one, [create a GitHub account](https://github.com)
@@ -41,11 +44,8 @@ Before the first day of class, please set up your laptops according to the follo
 * (Recommended) Cache GitHub password https://help.github.com/articles/caching-your-github-password-in-git/
 
 **Week 1: Intro**
-* What to expect: Review of the syllabus
-* Command Line basics; Intro to Git/GitHub  
-
-**Week 2:** Graphic Design Fundamentals; Designing with Photoshop & Illustrator  
-**Week 3:** Intro to HTML, CSS, Box Model  
+**Week 2:** Intro to Photoshop & Illustrator; Web Design Basics  
+**Week 3:** Intro to HTML, CSS, Layouts
 **Week 4:** User Experience and Interaction Design  
 **Week 5:** Midterm  
 **Week 6:** Advanced Selectors  
