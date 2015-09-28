@@ -3,6 +3,7 @@
 International Center of Photography  
 New Media Narratives  
 Mondays 6:30-9:30 Sept 28-Nov 30  
+
 Class website: [http://icpdesigncode.github.io](http://icpdesigncode.github.io)
 
 ## Description
