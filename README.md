@@ -45,7 +45,7 @@ Before the first day of class, please set up your laptops according to the follo
 
 **Week 1: Intro**
 **Week 2:** Intro to Photoshop & Illustrator; Web Design Basics  
-**Week 3:** Intro to HTML, CSS, Layouts
+**Week 3:** Intro to HTML, CSS, Layouts  
 **Week 4:** User Experience and Interaction Design  
 **Week 5:** Midterm  
 **Week 6:** Advanced Selectors  
