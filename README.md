@@ -32,7 +32,7 @@ Class sessions are divided into two parts with a break in between: (1) lectures 
 
 ## Lesson Plan
 
-See the [class website](http://icpdesigncode.github.io) for up-to-date curriculum.
+Note: Subject to change. See the [class website](http://icpdesigncode.github.io) for up-to-date coursework.
 
 **Week 0: Pre-Class Setup**
 Before the first day of class, please set up your laptops according to the following instructions:
@@ -48,10 +48,10 @@ Before the first day of class, please set up your laptops according to the follo
 **Week 3:** Intro to HTML, CSS, Layouts  
 **Week 4:** User Experience and Interaction Design  
 **Week 5: Midterm**   
-**Week 6:** Advanced Selectors  
-**Week 7:** Responsive Design (Media Queries, Border-Box)  
-**Week 8:** SVG, CSS Transitions and Transforms  
-**Week 9:** Flexible Session (Flexbox; Refactoring with Sass)  
+**Week 6:** Responsive Design (Media Queries, Border-Box)  
+**Week 7:** SVG, CSS Transitions and Transforms  
+**Week 8:** Advanced Selectors  
+**Week 9:** Special Topics: (Flexbox; Refactoring with Sass)  
 **Week 10: Finals**    
 
 
